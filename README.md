@@ -1,6 +1,6 @@
-## Myread-app
+## MyRead
 
-The myread-app application provide a simple way to keep track of books by placing them into the appropriate shelves. A book can be place in one of the three shelves, Currently reading, Want to read or Read. New books can be added on the desired shelf by performing a searching and placing the book on the shelf
+The myRead application provide a simple way to keep track of books by placing them on the appropriate shelves. A book can be place on one of the three shelves, Currently reading, Want to read or Read. New books can be added on the desired shelf by performing a searching and placing the book on the shelf
 
 ## Functionality
 - Track books on the Currently reading, Want to read and Read shelves
